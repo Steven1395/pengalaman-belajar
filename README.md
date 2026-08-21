@@ -21,4 +21,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **AKU UBAH INI YA**<br>
 Development ikutan yah!
 
-Squash 1
+Squash 1 <br>
+Squash 2 <br>

@@ -19,4 +19,8 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
 **AKU UBAH INI YA**<br>
-Main mau main-main nih!
+Development ikutan yah!
+
+Squash 1 <br>
+Squash 2 <br>
+Squash 3 <br>
